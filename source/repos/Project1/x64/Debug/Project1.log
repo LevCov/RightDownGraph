@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\levax\source\repos\Project1\Source.cpp(55,5): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\levax\source\repos\Project1\Source.cpp(226,9): warning C4101: buf: неиспользованная локальная переменная
+C:\Users\levax\source\repos\Project1\Source.cpp(224,9): warning C4101: x: неиспользованная локальная переменная
+  Project1.vcxproj -> C:\Users\levax\source\repos\Project1\x64\Debug\Project1.exe
